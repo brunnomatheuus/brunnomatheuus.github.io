@@ -1,6 +1,6 @@
 <?php
 
-    $to = 'pardal.henrique@gmail.com';
+    $to = 'brunomatheuslc@hotmail.com';
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $csubject = $_REQUEST['subject'];
@@ -15,9 +15,9 @@
     $subject = "Você possui uma nova mensagem do seu site!";
 
     $logo = './img/member/brunao.jpg';
-    $link = 'https://caiopardal.github.io/personal-page/';
+    $link = 'https://brunnomatheuus.github.io/';
 
-	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Email do Pardal</title></head><body>";
+	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Email do Bruno Cabral</title></head><body>";
 	$body .= "<table style='width: 100%;'>";
 	$body .= "<thead style='text-align: center;'><tr><td style='border:none;' colspan='2'>";
 	$body .= "<a href='{$link}'><img src='{$logo}' alt=''></a><br><br>";
