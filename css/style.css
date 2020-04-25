@@ -1211,3 +1211,42 @@ body, p, h1, h2, h3, h4, h5, h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+.skills{
+  background-color: #151965;
+  width: auto;
+  height: auto;
+  position: absolute;
+  padding: 0vw;
+  padding-top: 4w;
+  padding-bottom:4vw;
+}
+.projects h1,
+.skills h1{
+  color:#151965;
+  padding-top: 2vw;
+  padding-bottom: 7vw;
+  font-family: Futura;
+  letter-spacing: 1px;
+  font-weight: bold;
+  font-size: 4vw;
+}
+.skills-icon{
+    padding-bottom: 8vw;
+}
+.skills-icon i{
+  font-size: 4vw;
+  position: relative;
+  color: #151965;
+  margin: 4vw;
+}
+.skills-icon i:hover{
+  color: #252fdf;
+}
+
+/*	FOR MOBILE DEVICES */
+@media only screen and (max-width: 600px){
+    .skills h1{
+      font-size: 8vw;
+    }
+} 
