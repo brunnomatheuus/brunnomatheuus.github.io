@@ -380,38 +380,29 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .social_icon li:nth-child(2) a {
-  color: #70c2e9;
-  border-color: #70c2e9;
+  color: #F2F2F2;
+  border-color: #F2F2F2;
 }
 
 .social_icon li:nth-child(2):hover a {
-  background: #70c2e9;
+  background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
 }
 
 .social_icon li:nth-child(3) a {
-  color: #895a4d;
-  border-color: #895a4d;
+  color: #24292e;
+  border-color: #24292e;
 }
 
 .social_icon li:nth-child(3):hover a {
-  background: #895a4d;
+  background: #24292e;
 }
 
 .social_icon li:nth-child(4) a {
-  color: #d34836;
-  border-color: #d34836;
-}
-
-.social_icon li:nth-child(4):hover a {
-  background: #d34836;
-}
-
-.social_icon li:nth-child(5) a {
   color: #007ab9;
   border-color: #007ab9;
 }
 
-.social_icon li:nth-child(5):hover a {
+.social_icon li:nth-child(4):hover a {
   background: #007ab9;
 }
 
