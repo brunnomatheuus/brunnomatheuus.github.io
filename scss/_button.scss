@@ -2,11 +2,11 @@
 ============================================================================================ */
 .download_btn{
     display: block;
-    background: $baseColor;
+    background: #151965;
     text-align: center;
     line-height: 40px;
     border-radius: 20px;
-    color: $dip;
+    color: #fff;
     font-size: 18px;
     font-family: $yell;
     position: relative;
@@ -26,7 +26,7 @@
         text-align: center;
         line-height: 40px;
         font-size: 18px;
-        color: $dip;
+        color: #fff;
         top: -100%;
         left: 0px;
         font-family: FontAwesome;
