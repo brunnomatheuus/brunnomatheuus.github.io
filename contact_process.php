@@ -14,7 +14,7 @@
 
     $subject = "Você possui uma nova mensagem do seu site!";
 
-    $logo = './img/member/member-1.JPG';
+    $logo = './img/member/brunao.jpg';
     $link = 'https://caiopardal.github.io/personal-page/';
 
 	$body = "<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>Email do Pardal</title></head><body>";
